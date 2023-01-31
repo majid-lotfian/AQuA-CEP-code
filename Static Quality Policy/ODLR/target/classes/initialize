@@ -1,0 +1,63 @@
+1
+Temperature
+0:0
+1
+11
+100
+Accuracy = 75.0,EnergyConsumption = 3.0,LossRate = 6.5,Latency = 60,
+2
+Temperature
+31:0
+1
+11
+100
+Accuracy = 80.0,EnergyConsumption = 4.5,LossRate = 2.5,Latency = 50,
+3
+Temperature
+18:8
+1
+11
+100
+Accuracy = 84.0,EnergyConsumption = 4.2,LossRate = 4,Latency = 20,
+4
+Temperature
+50:11
+1
+11
+100
+Accuracy = 88.0,EnergyConsumption = 4.5,LossRate = 3.5,Latency = 20,
+5
+Temperature
+34:15
+1
+11
+100
+Accuracy = 84.0,EnergyConsumption = 4.3,LossRate = 4.5,Latency = 25,
+6
+Temperature
+0:19
+1
+11
+100
+Accuracy = 87.0,EnergyConsumption = 4.2,LossRate = 3,Latency = 20,
+7
+Temperature
+6:30
+1
+11
+100
+Accuracy = 84.0,EnergyConsumption = 4.1,LossRate = 4,Latency = 50,
+8
+Temperature
+28:30
+1
+11
+100
+Accuracy = 89.0,EnergyConsumption = 4.6,LossRate = 2,Latency = 40,
+9
+Temperature
+50:25
+1
+11
+100
+Accuracy = 86.0,EnergyConsumption = 4.4,LossRate = 3,Latency = 45,
