@@ -1,0 +1,14 @@
+q1
+Temperature 42:18 > 20.8,
+Latency Temperature < 80,
+c1
+100
+50
+
+
+q2
+Temperature 42:18 > 20.8,
+LossRate Temperature < 10,
+c1
+100
+50
