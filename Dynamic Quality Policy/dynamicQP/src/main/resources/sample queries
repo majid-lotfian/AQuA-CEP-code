@@ -1,0 +1,32 @@
+q1
+LOCATION 60:185 < 70,
+Accuracy LOCATION < 2;Distance 0 100,Accuracy LOCATION < 5;Distance 100 200,Accuracy LOCATION < 10;Distance 200 1000,
+c1
+120
+
+
+q2
+LOCATION 310:80 < 80,
+Accuracy LOCATION < 3;Distance 0 50,Accuracy LOCATION < 7;Distance 50 1000,
+c2
+120
+
+q3
+LOCATION 190:240 < 50,
+Accuracy LOCATION < 2;Distance 0 100,Accuracy LOCATION < 5;Distance 100 1000,
+c3
+120
+
+q4
+LOCATION 370:200 < 60,
+Accuracy LOCATION < 4;Distance 0 50,Accuracy LOCATION < 10;Distance 50 1000,
+c4
+120
+
+q5
+LOCATION 210:140 < 35,
+Accuracy LOCATION < 2;Distance 0 20,Accuracy LOCATION < 3;Distance 20 50,Accuracy LOCATION < 5;Distance 50 1000,
+c5
+120
+
+

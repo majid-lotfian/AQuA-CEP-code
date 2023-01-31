@@ -1,0 +1,36 @@
+BLE
+LOCATION
+250:80
+1
+100
+Accuracy = 3,EnergyConsumption = 426,
+RFID
+LOCATION
+380:140
+1
+12
+Accuracy = 2,EnergyConsumption = 375,
+WIFI1
+LOCATION
+270:240
+1
+100
+Accuracy = 5,EnergyConsumption = 817,
+WIFI2
+LOCATION
+60:0
+1
+100
+Accuracy = 5,EnergyConsumption = 817,
+CAMERA
+LOCATION
+120:220
+1
+100
+Accuracy = 1,EnergyConsumption = 374,
+LTE
+LOCATION
+0:0
+1
+1000
+Accuracy = 1,EnergyConsumption = 1634,
